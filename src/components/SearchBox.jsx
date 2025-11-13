@@ -6,7 +6,7 @@ export default function SearchBox({ searchInput, setSearchInput, onSearch }) {
       <input
         type="text"
         className="search-input"
-        placeholder="Cairo"
+        placeholder="Type city here:"
         value={searchInput}
         onChange={(e) => setSearchInput(e.target.value)}
       />
