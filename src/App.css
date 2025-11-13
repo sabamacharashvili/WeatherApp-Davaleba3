@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
+  background-color:#81baf4;
 }
 
 .app {
@@ -19,7 +19,7 @@ body {
 }
 
 .weather-container {
-  background: white;
+  background: rgb(255, 255, 255);
   border-radius: 12px;
   padding: 35px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -97,7 +97,7 @@ body {
 }
 
 .weather-card {
-  background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+  background: rgb(250, 253, 157);
   border-radius: 10px;
   padding: 25px;
   margin-top: 20px;
